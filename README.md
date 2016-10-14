@@ -1,6 +1,6 @@
-# ReactStarter
+# RCM Quix
 
-#### A template for my new React projects, early work in progress.
+#### A quiz that pulls questions and stores answers to Firebase
 
 Currently this starter is using
 * React
@@ -25,3 +25,4 @@ For DEV only
 For Production
 * node
 * express
+* firebase
