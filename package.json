@@ -1,5 +1,5 @@
 {
-  "name": "RCm Quiz",
+  "name": "RCM-Quiz",
   "version": "0.0.1",
   "description": "A quiz that uses Firebase",
   "main": "index.js",
