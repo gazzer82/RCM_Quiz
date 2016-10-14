@@ -1,7 +1,10 @@
 import { combineReducers } from 'redux';
+import questions from './reducerQuestions';
+import auth from './reducerAuth';
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+  questions,
+  auth
 });
 
 export default rootReducer;
